@@ -1,0 +1,1 @@
+Sorry, the model files are a bit too large to upload directly to GitHub. We’ve uploaded a compressed package and also shared them on Google Drive. Here’s the link: https://drive.google.com/drive/folders/1WRJeE7-gXg4GXaZGpjGgDgjLLkkCi4pp?usp=drive_link
