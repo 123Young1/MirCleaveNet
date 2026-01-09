@@ -248,4 +248,3 @@ dependencies:
       - xxhash==3.5.0
       - yarl==1.9.4
       - zipp==0.6.0
-prefix: /data1/yangzhou/anaconda3/envs/Dmc
