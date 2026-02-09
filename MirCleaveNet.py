@@ -48,10 +48,7 @@ from tensorflow.keras import layers as L
 
 
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2' 
-random.seed(64)
 
-np.random.seed(64)
-tf.random.set_seed(64)
 
 INPUT_SETTING_LIST = ["USE_SEQ_ONLY","USE_SEQ_FOLD","USE_SEQ_BPRNA"]
 DEFAULTS = {"batch_size" : 64,
